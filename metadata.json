@@ -1,0 +1,7 @@
+{
+  "name": "Telaga Semanan — Sistem Informasi Pemancingan & E-Fishery",
+  "description": "Platform reservasi kolam pemancingan, manajemen keanggotaan, dan pasar ikan segar E-Fishery Telaga Semanan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+  
